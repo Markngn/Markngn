@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Markngn.
-- 👀 I’m interested in all computer technologies.
-- 🌱 I’m currently learning web application.
-- 💞️ I’m looking to collaborate on various software projects.
+- 👀 I’m interested in all type of software development.
+- 🌱 I’m currently learning web applications.
+- 💞️ I’m looking to collaborate on any software project.
 - 📫 How to reach me: markngn@live.com
 
 <!---
